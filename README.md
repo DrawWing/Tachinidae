@@ -4,7 +4,7 @@
 
 Self contained large document with the key: <https://drawwing.github.io/Tachinidae/Tachinidae>
 
-<img border="1" src="docs/fig-1.png" title="Fig. 1. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), dorsal view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" height="401"><img border="1" src="docs/fig-2.png" title="Fig. 2. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), lateral view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" height="401">
+<img src="docs/fig-1.png" title="Fig. 1. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), dorsal view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" border="1" height="401"/><img src="docs/fig-2.png" title="Fig. 2. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), lateral view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" border="1" height="401"/>
 
 The key to the European Tachinidae is based on the work of Tschorsnig and Herting (Tschorsnig and Herting 1994).\
 Tschorsnig H. P., Herting B., 1994. Die Raupenfliegen (Diptera: Tachinidae) Mitteleuropas: Bestimmungstabellen und Angaben zur Verbreitung und Ökologie der einzelnen Arten. Stuttgarter Beiträge zur Naturkunde (A), 506:1-170.\
