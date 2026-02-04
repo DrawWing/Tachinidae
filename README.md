@@ -6,12 +6,12 @@
 A single, extensive document that includes the complete identification key and embedded images: <https://drawwing.github.io/Tachinidae/Tachinidae>
 
 **Modular, smaller documents with external images**\
-Shorter documents that reference images via links, with two possible layouts:\
+Shorter documents that reference images via links, with two possible layouts:
 
-- identification leads displayed side by side: <https://drawwing.github.io/Tachinidae/Tachinidae-columns>
-- identification leads displayed one above the other: <https://drawwing.github.io/Tachinidae/Tachinidae-list>
+-   identification leads displayed side by side: <https://drawwing.github.io/Tachinidae/Tachinidae-columns>
+-   identification leads displayed one above the other: <https://drawwing.github.io/Tachinidae/Tachinidae-list>
 
--   <img src="docs/fig-1.png" title="Fig. 1. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), dorsal view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" border="1" height="401"/><img src="docs/fig-2.png" title="Fig. 2. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), lateral view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" border="1" height="401"/>
+<img src="docs/fig-1.png" title="Fig. 1. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), dorsal view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" border="1" height="401"/><img src="docs/fig-2.png" title="Fig. 2. Lydella stabulans (female) (without wings and legs, only hairs on the head shown), lateral view. Scale: 0.5 mm. (from Tschorsnig and Herting 1994, CC BY-NC 3.0)" border="1" height="401"/>
 
 The key to the European Tachinidae is based on the work of Tschorsnig and Herting (Tschorsnig and Herting 1994).\
 Tschorsnig H. P., Herting B., 1994. Die Raupenfliegen (Diptera: Tachinidae) Mitteleuropas: Bestimmungstabellen und Angaben zur Verbreitung und Ökologie der einzelnen Arten. Stuttgarter Beiträge zur Naturkunde (A), 506:1-170.\
