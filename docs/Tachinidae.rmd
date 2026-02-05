@@ -10,13 +10,12 @@ format:
 ---
 ## Introduction  
 The key to the European Tachinidae is based on the work of Tschorsnig and Herting (Tschorsnig and Herting 1994).   
-Tschorsnig, H. P., Herting, B. (1994). Die Raupenfliegen (Diptera: Tachinidae) Mitteleuropas: Bestimmungstabellen und Angaben zur Verbreitung und Ökologie der einzelnen Arten. Stuttgarter Beiträge zur Naturkunde (A), 506, 1-170.  
+Tschorsnig H. P., Herting B., 1994. Die Raupenfliegen (Diptera: Tachinidae) Mitteleuropas: Bestimmungstabellen und Angaben zur Verbreitung und Ökologie der einzelnen Arten. Stuttgarter Beiträge zur Naturkunde (A), 506:1-170.  
 The original publication is available on [<u>archive.org</u>](https://archive.org/details/biostor-97167).  
 Rotraud Rayner and Chris Raper translated the original publication from German to English. They kindly agreed to use their translation. The translation can be found at [<u>tachinidae.myspecies.info</u>](https://tachinidae.myspecies.info/sites/tachinidae.myspecies.info/files/Central%20European%20Key%20-%20plus%20figures.pdf).  
-Adam Tofilski reformatted the translation and modified the terminology to be more consistent with the Manual of Palearctic Diptera (Papp and Darvas, 2000). He also prepared a glossary with illustrations. He is responsible for all errors and inconsistencies in this document. If you find any errors or have suggestions for improving this document, [please let me know](mailto:adam.tofilski@drawwing.org).  
-The key was prepared using DKey software (Tofilski, 2018).  
-Tofilski A (2018) DKey software for editing and browsing dichotomous keys. ZooKeys 735: 131-140. [<u>https://doi.org/10.3897/zookeys.735.21412</u>](https://doi.org/10.3897/zookeys.735.21412)  
-  
+Adam Tofilski reformatted the translation and modified the terminology to be more consistent with the Manual of Palearctic Diptera (Papp and Darvas 2000). He also prepared a glossary with illustrations. He is responsible for all errors and inconsistencies in this document. If you find any errors or have suggestions for improving this document, [<u>please let me know</u>](mailto:adam.tofilski@drawwing.org).  
+The key was prepared using DKey software (Tofilski 2018).  
+Tofilski A., 2018. DKey software for editing and browsing dichotomous keys. ZooKeys 735: 131-140. [<u>https://doi.org/10.3897/zookeys.735.21412</u>](https://doi.org/10.3897/zookeys.735.21412)  
 ## Taxonomic key  
 <a id="k1"></a>1 Number of [postsutural intraalar setae](#g94): 3 (Fig. [84](#f84)) (if only 2 [postsutural intraalar setae](#g94) are present, their distance from each other is smaller or at most as great as the distance of the foremost [postsutural intraalar setae](#g94) to the [transverse suture](#g128) (Fig. [86](#f86))).  [Eyes](#g31) or [prosternum](#g105): with or without hairs. - **[2](#k2)**  
 \- Number of [postsutural intraalar setae](#g94): 0, 1 (Fig. [87](#f87)) or 2 (if 2 [postsutural intraalar setae](#g94) are present, their distance from each other is greater than the distance of the foremost [postsutural intraalar setae](#g94) to the [transverse suture](#g128) (Fig. [88](#f88), [89](#f89))).  [Eyes](#g31) and [prosternum](#g105): almost always without hairs (exceptions Angiorhina, Dufouria and Ancistrophora). - **[314](#k314)**  
@@ -2281,7 +2280,7 @@ derives from the paired, united, two-segmented labial [palpi](#g81). The [labell
 <a id="g64"></a>64. [Lateral scutellar setae](#g64): a pair of setae of the margin of the [scutellum](#g109) located between [basal scutellar setae](#g18) and [subapical scutellar setae](#g114) (fig. lsctls). (Adam Tofilski, CC BY-NC 4.0)  
 <img border="1" src="fig-lsctls.png" />  
   
-<a id="g65"></a>65. [Leg](#g65): one of three appandages of [thorax](#g126) (fig. [legs](#g65)).  (Adam Tofilski, CC BY-NC 4.0)  
+<a id="g65"></a>65. [Leg](#g65): one of the three pairs of appendages on the [thorax](#g126) that are used for walking (fig. [legs](#g65)). (Adam Tofilski, CC BY-NC 4.0)  
 <img border="1" src="fig-legs.png" />  
   
 <a id="g66"></a>66. [Lower calypter](#g66): proximal [calypter](#g20) located between furrow separating [scutellum](#g109) from postnotum and [upper calypter](#g130) (Fig. lcalyp).  (Adam Tofilski, CC BY-NC 4.0)  
