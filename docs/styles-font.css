@@ -1,0 +1,14 @@
+a:link,
+a:visited {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+  color: blue;
+}
+
+body {
+    font-family: sans-serif;
+}

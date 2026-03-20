@@ -1,0 +1,19 @@
+div.columns {
+  display: flex;
+  gap: 1em;
+}
+
+figure figcaption {
+  display: none;
+}
+
+a:link,
+a:visited {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+  color: blue;
+}
